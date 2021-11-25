@@ -1,0 +1,15 @@
+.contact{
+    border-radius: 5px;
+    border: 1.2px solid #cecece;
+    margin: 3px 0px;
+}
+
+.contact:hover{
+    box-shadow: 0px 2px 6px 2px #ddd;
+}
+
+.contact-list{
+    list-style: none;
+    padding: 0;
+    max-width: 250px;
+}
